@@ -1,0 +1,23 @@
+{
+  "name": "koa-proto-mms",
+  "version": "1.0.0",
+  "description": "Mood management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bin-r00t/koa-proto-mms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bin-r00t/koa-proto-mms/issues"
+  },
+  "homepage": "https://github.com/bin-r00t/koa-proto-mms#readme",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}
